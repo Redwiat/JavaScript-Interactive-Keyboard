@@ -1,9 +1,6 @@
 # JavaScript-Interactive-Keyboard
 The JavaScript Interactive Keyboard is an interactive tool that allows users to test keyboard buttons. By clicking on the screen or typing "Shift + Delete," users can clear all the text. This repository contains the code for the keyboard, making it easy for others to access and utilize.
 
-Sure! Here's an example of a README.md file for your JavaScript Interactive Keyboard repository:
-
-```
 # JavaScript Interactive Keyboard
 
 The JavaScript Interactive Keyboard is an interactive tool that allows users to test keyboard buttons. By clicking on the screen or typing "Shift + Delete," users can clear all the text.
@@ -17,9 +14,10 @@ To use the JavaScript Interactive Keyboard, simply open the HTML file in a web b
 To get started with the project, follow these steps:
 
 1. Clone the repository:
-   ```
+
+ ```
    git clone https://github.com/Redwiat/JavaScript-Interactive-Keyboard.git
-   ```
+```
 
 2. Open the HTML file (`index.html`) in a web browser.
 
@@ -33,7 +31,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-The JavaScript Interactive Keyboard was developed by [Your Name]. 
+The JavaScript Interactive Keyboard was developed by [Abdullah Al Redwan](https://github.com/Redwiat/).
 
 ## Contact
 
