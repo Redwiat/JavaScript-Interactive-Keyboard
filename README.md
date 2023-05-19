@@ -35,9 +35,8 @@ The JavaScript Interactive Keyboard was developed by [Abdullah Al Redwan](https:
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Email Address].
+For any questions or inquiries, please contact [redwan9100@gmail.com](mailto:redwan9100@gmail.com).
 
-```
 
 The repository URL in the clone command with the appropriate information for your project. Additionally, feel free to modify the sections according to your needs and provide more detailed information if necessary.
 
