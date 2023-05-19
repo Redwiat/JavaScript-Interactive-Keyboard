@@ -21,6 +21,11 @@ To get started with the project, follow these steps:
 
 2. Open the HTML file (`index.html`) in a web browser.
 
+## Release History
+
+- 1.0.0 (2023-05-19)
+  - Initial release of the JavaScript Interactive Keyboard.
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
